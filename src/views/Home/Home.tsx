@@ -98,7 +98,7 @@ const Home: React.FC = () => {
     <>
       <Header>
         <Heading as="h1" size="xl" color="black" mb="24px">
-        <CardImage src="/images/Banner.png" alt="Blaxion Logo" width={1000} height={500} />
+        <CardImage src="/images/Banner.png" alt="DefiFarmer Logo" width={1000} height={500} />
         </Heading>
       </Header>
       <Page>

@@ -363,7 +363,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
             : TranslateString(320, 'Stake LP tokens to earn Bxn')}
         </Heading>
         <Heading size="lg" color="text">
-          {TranslateString(10000, 'Deposit Fee will be used to buyback BXN and lock liquidity')}
+          {TranslateString(10000, 'Deposit Fee will be used to buyback DEFI and lock liquidity')}
         </Heading>
       </Header>
       <Page>

@@ -35,7 +35,7 @@ const HowItWorks = () => {
       <Text fontSize="16px">
         {TranslateString(
           999,
-          'Spend BXN to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!',
+          'Spend DEFI to buy tickets, contributing to the lottery pot. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their exact order!',
         )}
       </Text>
     </LayoutWrapper>

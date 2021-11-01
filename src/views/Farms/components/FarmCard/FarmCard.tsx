@@ -142,7 +142,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
     : '-'
 
   const lpLabel = farm.lpSymbol && farm.lpSymbol.toUpperCase().replace('PANCAKE', '')
-  const earnLabel = farm.dual ? farm.dual.earnLabel : 'BXN'
+  const earnLabel = farm.dual ? farm.dual.earnLabel : 'DEFI'
   const farmAPY = farm.apy && farm.apy.times(new BigNumber(100)).toNumber().toLocaleString('en-US').slice(0, -1)
 
   const { quoteTokenAdresses, quoteTokenSymbol, tokenAddresses } = farm
@@ -151,7 +151,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
 
   return (
     <FCard>
-      {farm.tokenSymbol === 'BXN' && <StyledCardAccent />}
+      {farm.tokenSymbol === 'DEFI' && <StyledCardAccent />}
       <CardHeading
         lpLabel={lpLabel}
         multiplier={farm.multiplier}
@@ -205,9 +205,9 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, bnbPrice,
           lpTokenPriceFormated={lpTokenPriceFormated}
           lpLabel={lpLabel}
           addLiquidityUrl={farm.isTokenOnly ?
-            `https://exchange.blaxion.app/#/swap?outputCurrency=${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
+            `https://exchange.defifarmer.app/#/swap?outputCurrency=${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
             :
-          `https://exchange.blaxion.app/#/add/${liquidityUrlPathParts}`
+          `https://exchange.defifarmer.app/#/add/${liquidityUrlPathParts}`
         }
           isTokenOnly={farm.isTokenOnly}
         />

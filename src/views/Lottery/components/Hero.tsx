@@ -71,7 +71,7 @@ const Hero = () => {
       <StyledContainer>
         <LeftWrapper>
           <Title>{TranslateString(708, 'Moctezuma Sacrifice')}</Title>
-          <Blurb>{TranslateString(710, 'Buy tickets with BXN')}</Blurb>
+          <Blurb>{TranslateString(710, 'Buy tickets with DEFI')}</Blurb>
           <Blurb>{TranslateString(712, 'Win if 2, 3, or 4 of your ticket numbers match!')}</Blurb>
         </LeftWrapper>
         <RightWrapper>
