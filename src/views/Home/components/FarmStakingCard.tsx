@@ -58,7 +58,7 @@ const FarmedStakingCard = () => {
         <Heading size="lg" mb="24px">
           {TranslateString(542, 'Farms & Staking')}
         </Heading>
-        <CardImage src="/images/9.png" alt="Blaxion Logo" width={64} height={64} />
+        <CardImage src="/images/9.png" alt="DefiFarmer Logo" width={64} height={64} />
         <Block>
           <Label>{TranslateString(544, 'BXN to Harvest')}:</Label>
           <CakeHarvestBalance />

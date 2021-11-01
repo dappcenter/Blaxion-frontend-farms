@@ -52,7 +52,7 @@ const CakeStats = () => {
     <StyledCakeStats>
       <CardBody>
         <Heading size="lg" mb="24px">
-           Blaxion Stats
+           DefiFarmer Stats
         </Heading>
         <RowHighlighted>
           <Text fontSize="14px">
