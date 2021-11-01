@@ -13,11 +13,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.blaxion.app/',
+        href: 'https://exchange.defifarmer.app/',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.blaxion.app/#/pool',
+        href: 'https://exchange.defifarmer.app/#/pool',
       },
     ],
   },
@@ -32,7 +32,7 @@ const config: MenuEntry[] = [
     href: '/pools',
   },
   {
-    label: 'Blaxion Token',
+    label: 'DefiFarmer Token',
     icon: 'InfoIcon',
     items: [
       {

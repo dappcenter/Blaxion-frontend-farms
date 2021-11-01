@@ -2047,9 +2047,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@BlaxionDeFi/Blaxion-uikit#releases_refresh":
+"@pancakeswap-libs/uikit@DefiFarmerDeFi/DefiFarmer-uikit#releases_refresh":
   version "0.13.1"
-  resolved "https://codeload.github.com/BlaxionDeFi/Blaxion-uikit/tar.gz/aa27897a858f04973923f30ec4f1c7412dc51b81"
+  resolved "https://codeload.github.com/DefiFarmerDeFi/DefiFarmer-uikit/tar.gz/aa27897a858f04973923f30ec4f1c7412dc51b81"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -14052,7 +14052,7 @@ watchpack-chokidar2@^2.0.1:
 watchpack@^1.7.4:
   version "1.7.5"
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
-  integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
+  integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbadefiKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"

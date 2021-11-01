@@ -63,12 +63,12 @@ const ComingSoon = () => {
               )}
             </Text>
             <Text mb={3}>
-              <LiquidityLink href="https://exchange.blaxion.app/#/add/ETH/0xba26397cdff25f0d26e815d218ef3c77609ae7f1">
+              <LiquidityLink href="https://exchange.defifarmer.app/#/add/ETH/0xba26397cdff25f0d26e815d218ef3c77609ae7f1">
                 {TranslateString(506, 'Get CAKE-BNB LP >')}
               </LiquidityLink>
             </Text>
             <Text mb={3}>
-              {TranslateString(508, 'The project gets the BNB, Koala DeFi burns the BXN.')}
+              {TranslateString(508, 'The project gets the BNB, Koala DeFi burns the DEFI.')}
               <br />
               <strong>{TranslateString(510, 'You get the tokens.')}</strong>
             </Text>

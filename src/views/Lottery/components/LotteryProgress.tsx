@@ -44,7 +44,7 @@ const LotteryProgress = () => {
   return (
     <ProgressWrapper>
       <TopTextWrapper>
-        <Text fontSize="20px" bold color="invertedContrast">BXN sacrifice every evening.
+        <Text fontSize="20px" bold color="invertedContrast">DEFI sacrifice every evening.
         </Text>
       </TopTextWrapper>
       {lotteryHasDrawn && (

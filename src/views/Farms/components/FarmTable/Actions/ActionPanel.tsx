@@ -173,9 +173,9 @@ const ActionPanel: React.FunctionComponent<ActionPanelProps> = ({ details, apr, 
         <StakeContainer>
           Stake:
           <StyledLinkExternal href={farm.isTokenOnly ?
-            `https://exchange.blaxion.app/#/swap?outputCurrency=${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
+            `https://exchange.defifarmer.app/#/swap?outputCurrency=${tokenAddresses[process.env.REACT_APP_CHAIN_ID]}`
             :
-          `https://exchange.blaxion.app/#/add/${liquidityUrlPathParts}`
+          `https://exchange.defifarmer.app/#/add/${liquidityUrlPathParts}`
         }>
             {lpLabel}
           </StyledLinkExternal>

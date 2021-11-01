@@ -81,7 +81,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total de BXN brûlé depuis le lancement"
+        "text": "Total de DEFI brûlé depuis le lancement"
       }
     },
     {
@@ -129,13 +129,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Déposez vos LP pour gagner des BXN"
+        "text": "Déposez vos LP pour gagner des DEFI"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Bxn, get SYRUP."
+        "text": "Stake Defi, get SYRUP."
       }
     },
     {
@@ -159,7 +159,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Chaque fois que vous déposez et retirez des BXN, le contrat récoltera automatiquement les récompenses BXN pour vous!"
+        "text": "Chaque fois que vous déposez et retirez des DEFI, le contrat récoltera automatiquement les récompenses DEFI pour vous!"
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Prix du Bxn"
+        "text": "Prix du Defi"
       }
     },
     {
@@ -249,7 +249,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 BXN = 1 SYRUP"
+        "text": "1 DEFI = 1 SYRUP"
       }
     },
     {
@@ -297,7 +297,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of BXN block emissions each day (10 BXN per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of DEFI block emissions each day (10 DEFI per block), Rewards are distributed each block."
       }
     },
     {
@@ -357,13 +357,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% BXN"
+        "text": "%num% DEFI"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend BXN to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend DEFI to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +441,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% BXN Available"
+        "text": "%num% DEFI Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 BXN"
+        "text": "Your amount must be a multiple of 10 DEFI"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 BXN"
+        "text": "1 Ticket = 10 DEFI"
       }
     },
     {
@@ -501,7 +501,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your BXN cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your DEFI cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "BXN prizes to be claimed"
+        "text": "DEFI prizes to be claimed"
       }
     },
     {
@@ -549,13 +549,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve BXN"
+        "text": "Approve DEFI"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of BXN block emissions each day (10 BXN per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of DEFI block emissions each day (10 DEFI per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +573,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using BXN-BNB LP tokens, which means you need to stake equal amounts of BXN and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using DEFI-BNB LP tokens, which means you need to stake equal amounts of DEFI and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get BXN-BNB LP >"
+        "text": "Get DEFI-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Koala DeFi Finance burns the BXN."
+        "text": "The project gets the BNB, Koala DeFi Finance burns the DEFI."
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Bxn Stats"
+        "text": "Defi Stats"
       }
     },
     {
@@ -669,7 +669,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "Nouveau BXN\/bloc"
+        "text": "Nouveau DEFI\/bloc"
       }
     },
     {
@@ -681,19 +681,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "BXN à récolter"
+        "text": "DEFI à récolter"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "BXN en portefeuille"
+        "text": "DEFI en portefeuille"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Récolter les BXN"
+        "text": "Récolter les DEFI"
       }
     },
     {
@@ -705,7 +705,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "BXN à récolter"
+        "text": "DEFI à récolter"
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Déposer des BXN pour en gagner d'autres."
+        "text": "Déposer des DEFI pour en gagner d'autres."
       }
     },
     {
@@ -789,7 +789,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "BXN à bruler (USD)"
+        "text": "DEFI à bruler (USD)"
       }
     },
     {
@@ -801,7 +801,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest BXN rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest DEFI rewards for you!"
       }
     },
     {
@@ -819,13 +819,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy BXN and BNB tokens"
+        "text": "Buy DEFI and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get BXN-BNB LP tokens by adding BXN and BNB liquidity"
+        "text": "Get DEFI-BNB LP tokens by adding DEFI and BNB liquidity"
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your BXN-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your DEFI-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +873,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for BXN, or keep for your collection!"
+        "text": "Trade in for DEFI, or keep for your collection!"
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive BXN, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive DEFI, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +945,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a BXN value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a DEFI value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for BXN"
+        "text": "Trade in for DEFI"
       }
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn BXN"
+        "text": "Stake LP tokens to earn DEFI"
       }
     },
     {
@@ -1155,7 +1155,7 @@
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with BXN"
+        "text": "Buy tickets with DEFI"
       }
     },
     {
@@ -1239,7 +1239,7 @@
     {
       "data": {
         "stringId": 734,
-        "text": "du $BXN maintenant!"
+        "text": "du $DEFI maintenant!"
       }
     },
     {
@@ -1305,7 +1305,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Les frais de dépôt seront utilisés pour racheter des BXN"
+        "text": "Les frais de dépôt seront utilisés pour racheter des DEFI"
       }
     },
     {
@@ -1317,7 +1317,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Déposer vos tokens pour gagner des BXN"
+        "text": "Déposer vos tokens pour gagner des DEFI"
       }
     },
     {
