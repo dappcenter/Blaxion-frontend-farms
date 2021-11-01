@@ -129,7 +129,7 @@
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Bxn, get SYRUP."
+        "text": "Stake Defi, get SYRUP."
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Bxn price"
+        "text": "Defi price"
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Bxn Stats"
+        "text": "Defi Stats"
       }
     },
     {
@@ -1251,7 +1251,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn Bxn"
+        "text": "Stake tokens to earn Defi"
       }
     },
     {

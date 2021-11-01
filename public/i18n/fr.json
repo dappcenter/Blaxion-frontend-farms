@@ -135,7 +135,7 @@
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Bxn, get SYRUP."
+        "text": "Stake Defi, get SYRUP."
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Prix du Bxn"
+        "text": "Prix du Defi"
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Bxn Stats"
+        "text": "Defi Stats"
       }
     },
     {
