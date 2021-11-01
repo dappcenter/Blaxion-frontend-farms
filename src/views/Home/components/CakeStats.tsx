@@ -88,7 +88,7 @@ const CakeStats = () => {
           <CardValue fontSize="14px" value={getBalanceNumber(burnedBalance)} decimals={0} />
         </Row>
         <Row>
-          <Text fontSize="14px">New Bxn/block</Text>
+          <Text fontSize="14px">New Defi/block</Text>
           <Text bold fontSize="14px">
             {bxnPerBlock}
           </Text>

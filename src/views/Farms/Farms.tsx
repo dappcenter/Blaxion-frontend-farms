@@ -359,8 +359,8 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
       <Header>
         <Heading as="h1" size="xxl" color="bxn" mb="24px">
           {tokenMode
-            ? TranslateString(10002, 'Stake tokens to earn Bxn')
-            : TranslateString(320, 'Stake LP tokens to earn Bxn')}
+            ? TranslateString(10002, 'Stake tokens to earn Defi')
+            : TranslateString(320, 'Stake LP tokens to earn Defi')}
         </Heading>
         <Heading size="lg" color="text">
           {TranslateString(10000, 'Deposit Fee will be used to buyback DEFI and lock liquidity')}

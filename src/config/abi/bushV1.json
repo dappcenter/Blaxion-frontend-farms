@@ -388,7 +388,7 @@
       },
       {
         "internalType": "uint256",
-        "name": "accBxnPerShare",
+        "name": "accDefiPerShare",
         "type": "uint256"
       },
       {

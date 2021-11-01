@@ -61,7 +61,7 @@
 	{
 		"inputs": [
 			{
-				"internalType": "contract BxnToken",
+				"internalType": "contract DefiToken",
 				"name": "_bxn",
 				"type": "address"
 			},
@@ -268,7 +268,7 @@
 				"type": "uint256"
 			}
 		],
-		"name": "updateBxnPerBlock",
+		"name": "updateDefiPerBlock",
 		"outputs": [],
 		"stateMutability": "nonpayable",
 		"type": "function"
@@ -410,7 +410,7 @@
 		"name": "bxn",
 		"outputs": [
 			{
-				"internalType": "contract BxnToken",
+				"internalType": "contract DefiToken",
 				"name": "",
 				"type": "address"
 			}
@@ -470,7 +470,7 @@
 				"type": "address"
 			}
 		],
-		"name": "pendingBxn",
+		"name": "pendingDefi",
 		"outputs": [
 			{
 				"internalType": "uint256",
@@ -508,7 +508,7 @@
 			},
 			{
 				"internalType": "uint256",
-				"name": "accBxnPerShare",
+				"name": "accDefiPerShare",
 				"type": "uint256"
 			},
 			{
